@@ -3,5 +3,5 @@ using namespace std;
 
 int main(){
     cout<<"Hare krsna hare rama"<<endl;
-    return 0;
+
 }
